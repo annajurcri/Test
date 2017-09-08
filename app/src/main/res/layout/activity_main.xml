@@ -13,6 +13,7 @@
         android:layout_width="match_parent"
         app:texto1="Le hemos dado vueltas, pero no hemos encontrado recomendaciones"
         app:texto2="Sigue buscando e inscribiéndote para que podamos ofrecerte nuevas ofertas"
+        app:imagen="@drawable/illustration"
         app:boton="">
     </com.example.annacristobal.myapplication.Test>
 
