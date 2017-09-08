@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:whatever="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.annacristobal.myapplication.MainActivity">
+
+    <com.example.annacristobal.myapplication.Test
+        android:id="@+id/test"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        app:texto1="Le hemos dado vueltas, pero no hemos encontrado recomendaciones"
+        app:texto2="Sigue buscando e inscribiéndote para que podamos ofrecerte nuevas ofertas"
+        app:boton="">
+    </com.example.annacristobal.myapplication.Test>
+
+
+
+
+</FrameLayout>
